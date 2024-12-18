@@ -50,6 +50,9 @@ def to_excel(df):
 def main():
     # Título principal
     st.write("# Telemarketing Analysis")
+    st.write("# Suba seu arquivo para ver a análise dos dados")
+    st.write("# Ferramenta desenvolvida por Fábio Stampone")
+    st.write("# Curso EBAC - Cientista de Dados")
     st.markdown("---")
 
     # Imagem na barra lateral
